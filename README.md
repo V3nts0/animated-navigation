@@ -1,2 +1,2 @@
-## Cool project created for animation in nav.
-#JS #HTML #CSS #animated-navigation
+## Cool small project. With animation in nav. Template for others project. #JS #HTML #CSS
+#animated-navigation
